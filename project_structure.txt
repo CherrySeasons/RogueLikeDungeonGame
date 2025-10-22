@@ -1,0 +1,34 @@
+roguelike-dungeon-game/
+│
+├── game/                     # Core engine and logic
+│   ├── __init__.py
+│   ├── player.py             # Player class, stats, movement
+│   ├── enemy.py              # Enemy class and AI logic
+│   ├── dungeon.py            # Procedural map generation
+│   ├── items.py              # Loot, potions, weapons
+│   ├── combat.py             # Damage and fight system
+│   ├── game_engine.py        # Main game loop
+│   ├── utils.py              # Helper functions
+│
+├── assets/                   # Sprites, tiles, audio (optional)
+│   ├── player.png
+│   ├── enemy.png
+│   ├── wall.png
+│   ├── floor.png
+│
+├── demos/                 # Demo or test runs
+│   ├── demo_run.py
+│   ├── demo_dungeon.py
+│   ├── demo_player.py
+│   ├── demo_enemy.py
+│
+├── tests/                    # Unit tests for core logic
+│   ├── test_run.py
+│   ├── test_dungeon.py
+│   ├── test_player.py
+│   ├── test_enemy.py
+│
+├── requirements.txt
+├── setup.py
+├── LICENSE
+└── README.md
