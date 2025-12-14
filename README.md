@@ -100,8 +100,11 @@ _(If the entry file differs, run the appropriate game launcher script.)_
 ## 🎯 Gameplay Controls
 
 - Move the player using keyboard controls (as defined in the game logic)
+  
 - Explore dungeon rooms and corridorsic
+  
 - Fight enemies and collect loot
+  
 - Try to survive as long as possible
 
 ---
@@ -109,9 +112,13 @@ _(If the entry file differs, run the appropriate game launcher script.)_
 ## 🔮 Future Improvements
 
 - Enhanced enemy AI and behaviors
+  
 - Additional dungeon themes and levels
+  
 - Sound effects and background music
+  
 - Save and load game functionality
+  
 - Improved visuals and animations
 
 ---
@@ -124,4 +131,4 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Teja Sai Eswar Reddy Singa Reddy**
-Student, IIT Kharagpur – ECE Department (3rd Year)
+* Student, IIT Kharagpur – ECE Department (3rd Year)
