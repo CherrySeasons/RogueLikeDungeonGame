@@ -128,7 +128,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Teja Sai Eswar Reddy Singa Reddy**
-* Student, IIT Kharagpur – ECE Department (3rd Year)
+**Teja Sai Eswar Reddy**  
+Student, IIT Kharagpur – ECE Department (3rd Year)  
