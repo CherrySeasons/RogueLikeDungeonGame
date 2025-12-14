@@ -52,6 +52,81 @@ The project covers:
 
 1. **Clone the repository**
 
-   ```bash
+```bash
    git clone https://github.com/CherrySeasons/RogueLikeDungeonGame.git
    cd RogueLikeDungeonGame
+```
+
+2. **(Optional) Create and activate a virtual environment**
+
+```bash
+python -m venv venv
+source venv/bin/activate      # Linux / macOS
+venv\Scripts\activate         # Windows
+```
+
+3. **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **Run the game**
+
+```bash
+python main.py
+```
+
+_(If the entry file differs, run the appropriate game launcher script.)_
+
+## 📂 Project Structure
+
+```
+├── demos/                 # Demo scripts and example runs
+├── game/                  # Core game logic and modules
+├── logs/                  # Gameplay and debug logs
+├── requirements.txt       # Project dependencies
+├── project_structure.txt  # Project structure reference
+├── LICENSE                # License file
+├── README.md              # Project documentation
+└── main.py                # Game entry point
+
+```
+
+---
+
+## 🎯 Gameplay Controls
+
+- Move the player using keyboard controls (as defined in the game logic)
+
+- Explore dungeon rooms and corridorsic
+
+- Fight enemies and collect loot
+
+- Try to survive as long as possible
+
+---
+
+## 🔮 Future Improvements
+
+- Enhanced enemy AI and behaviors
+
+- Additional dungeon themes and levels
+
+- Sound effects and background music
+
+- Save and load game functionality
+
+- Improved visuals and animations
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+* **Teja Sai Eswar Reddy Singa Reddy**
+* Student, IIT Kharagpur – ECE Department (3rd Year)
